@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "The Puzzle",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2026-03-29T08:30:04.378648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Puzzle",
+      "artist": "Ane Brun",
+      "has_synced": true,
+      "path": "select/01_The_Puzzle_Ane_Brun.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Where Is The Puzzle",
+      "artist": "Bonnie \"Prince\" Billy",
+      "has_synced": false,
+      "path": "select/02_Where_Is_The_Puzzle_Bonnie__Prince__Billy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stuck on the puzzle",
+      "artist": "Alex Turner",
+      "has_synced": true,
+      "path": "select/03_Stuck_on_the_puzzle_Alex_Turner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Puzzle - Live From Cirkus Arena, Sweden/2013",
+      "artist": "Ane Brun",
+      "has_synced": false,
+      "path": "select/04_The_Puzzle_-_Live_From_Cirkus_Arena,_Sweden_2013_Ane_Brun.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "PIECE IN THE PUZZLE",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/05_PIECE_IN_THE_PUZZLE_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "PIECE IN THE PUZZLE",
+      "artist": "Koda Kumi",
+      "has_synced": true,
+      "path": "select/06_PIECE_IN_THE_PUZZLE_Koda_Kumi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Puzzle",
+      "artist": "In Flames",
+      "has_synced": true,
+      "path": "select/07_The_Puzzle_In_Flames.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Puzzle",
+      "artist": "Brother Ali",
+      "has_synced": true,
+      "path": "select/08_The_Puzzle_Brother_Ali.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stuck On the Puzzle (Intro)",
+      "artist": "Alex Turner",
+      "has_synced": true,
+      "path": "select/09_Stuck_On_the_Puzzle_(Intro)_Alex_Turner.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stuck on the puzzle (intro)",
+      "artist": "Alex Turner",
+      "has_synced": true,
+      "path": "select/10_Stuck_on_the_puzzle_(intro)_Alex_Turner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stuck On the Puzzle",
+      "artist": "Alex Turner",
+      "has_synced": true,
+      "path": "select/11_Stuck_On_the_Puzzle_Alex_Turner.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Puzzle",
+      "artist": "You, Me, and Everyone We Know",
+      "has_synced": false,
+      "path": "select/12_The_Puzzle_You,_Me,_and_Everyone_We_Know.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Puzzle",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/13_The_Puzzle_MY_FIRST_STORY.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Puzzle",
+      "artist": "Ane Brun",
+      "has_synced": true,
+      "path": "select/14_The_Puzzle_Ane_Brun.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Puzzle - Sketches Version",
+      "artist": "Ane Brun",
+      "has_synced": true,
+      "path": "select/15_The_Puzzle_-_Sketches_Version_Ane_Brun.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blow The Man Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/16_Blow_The_Man_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/17_Bones_in_the_Ocean_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bonny Ship the Diamond",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/18_Bonny_Ship_the_Diamond_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Crossing The Bar",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/19_Crossing_The_Bar_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Daughter of the Sea",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/20_Daughter_of_the_Sea_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Daughter of the Sea (Warbringers: Jaina)",
+      "artist": "Peter Hollens",
+      "has_synced": true,
+      "path": "select/21_Daughter_of_the_Sea_(Warbringers__Jaina)_Peter_Hollens.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Enemy (From the series \"Arcane League of Legends\")",
+      "artist": "Imagine Dragons feat. JID, Arcane & League of Legends",
+      "has_synced": true,
+      "path": "select/22_Enemy_(From_the_series__Arcane_League_of_Legends_)_Imagine_Dragons_feat._JID,_Arcane_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Enemy (from the series Arcane League of Legends)",
+      "artist": "Imagine Dragons, JID & League of Legends",
+      "has_synced": true,
+      "path": "select/23_Enemy_(from_the_series_Arcane_League_of_Legends)_Imagine_Dragons,_JID_&_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Hammer And The Anvil",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/24_Hammer_And_The_Anvil_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "On the Railroad",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/25_On_the_Railroad_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/26_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Roll the Old Chariot Along",
+      "artist": "David Coffin",
+      "has_synced": true,
+      "path": "select/27_Roll_the_Old_Chariot_Along_David_Coffin.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/28_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/29_Sleeping_in_the_Cold_Below_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Reason",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_The_Reason_MY_FIRST_STORY.txt"
+    }
+  ]
+}
